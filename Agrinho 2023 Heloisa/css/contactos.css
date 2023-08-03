@@ -22,6 +22,7 @@
 .contactos .titulo-texto {
 	color: var(--color-white);
 	padding-bottom: var(--espaciado-normal);
+	text-align: justify;
 	/* propiedades restantes en generales.css */
 }
 
@@ -31,7 +32,7 @@
 }
 
 .formulario-input {
-	width: 50%;
+	width: 70%;
 	height: var(--espaciado-muy-alto);
 	font-size: 1.1em;
 	display: block;
@@ -79,3 +80,13 @@
 .icono:hover {
 	transform: scale(.95);
 }
+
+.depoimentos-mulheres-container {
+	margin: 0;
+	padding: auto;
+}
+
+.depoimentos-mulheres {
+	width: 30em;
+}
+

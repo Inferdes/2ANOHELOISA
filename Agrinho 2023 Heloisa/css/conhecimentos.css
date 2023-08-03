@@ -9,16 +9,14 @@
 }
 
 .conhecimentos-grilla {
-	padding-top: var(--espaciado-muy-alto);
-	margin: 0 var(--espaciado-muy-alto);
-
 	display: grid;
 	grid-template-columns: 2fr 1fr 2fr;
 }
 
 .conhecimentos-columna {
+	display: flex;
 	display: grid;
-	grid-template-rows: repeat(6, 1fr);
+	grid-template-rows: repeat(3, 1fr);
 }
 
 .conhecimentos-elemento {
