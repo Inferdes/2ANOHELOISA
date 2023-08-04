@@ -23,13 +23,12 @@
 	overflow: hidden;
 }
 
-.experiencias-multimedia-container {
+.experiencia-multimedia-container {
 	margin: 0;
 }
 
-.experiencias-multimedia {
-	width: 100%;
-	height: 100%;
+.experiencia-multimedia {
+	width: 500px;
 	object-fit: cover;
 }
 

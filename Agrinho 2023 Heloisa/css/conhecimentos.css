@@ -10,7 +10,7 @@
 
 .conhecimentos-grilla {
 	display: grid;
-	grid-template-columns: 2fr 1fr 2fr;
+	grid-template-columns: 1fr 1fr 1fr;
 }
 
 .conhecimentos-columna {
@@ -50,7 +50,7 @@
 
 /*Link não visitado */
 a:link {
-  color: green;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
